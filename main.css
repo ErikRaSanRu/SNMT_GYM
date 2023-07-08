@@ -7,16 +7,18 @@ body {
    color:black;
 }
 .dia {
+   margin-top: 20px;
    text-transform: capitalize;
    font-size:x-large;
    color:black;
      }
 
 .musculo {
+   margin-bottom: 20px;
     text-transform: capitalize;
     font-size: x-large;
     color:black;
-    margin-left: 40px;   
+    margin-left: 00px;   
  }
 
  table{
