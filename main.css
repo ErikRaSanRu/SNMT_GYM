@@ -1,0 +1,54 @@
+body {
+    background-color: #eee;
+    }
+.mes{
+    text-transform: uppercase;
+   font-size: 20px;
+   color:black;
+}
+.dia {
+   text-transform: capitalize;
+   font-size:x-large;
+   color:black;
+     }
+
+.musculo {
+    text-transform: capitalize;
+    font-size: x-large;
+    color:black;
+    margin-left: 40px;   
+ }
+
+ table{
+    width:  100%;
+    background-color: white;
+    border-collapse: collapse;
+    
+ }
+
+ table th{
+   background-color: darkgoldenrod;
+   color: white;
+   text-align: center;
+   padding-left: 8px;
+   padding-right: 8px;
+   padding-top: 12px;
+   padding-bottom: 12px;
+   font-size: 20px;
+   text-transform: uppercase;
+ }
+
+ tr:nth-child(even){
+    background-color: #f2f2f2;
+ }
+
+ td{
+   border: 1px solid #ddd;
+   text-align: center;
+   font-size: 15px;
+   font-weight: bold;
+   
+ }
+hr{
+   color: darkgoldenrod;
+  }
